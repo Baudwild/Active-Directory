@@ -11,11 +11,16 @@
 ### Création d'un utilisateur :
 
 - Dans "Utilisateur", je fais un clic droit sur la page blanche de droite puis Nouveau > Utilisateur.
-- Je mets : 
+- Je mets :
+
 Prenom : Toto
+
 Nom : Wilders
+
 Nom d'ouverture de session de l'utilisateur : t.Wilders
+
 Puis suivant.
+
 - Je rentre un nouveau mot de passe puis suivant > finir.
 
 ### Ajout de l'utilisateur au sein du groupe Students :
